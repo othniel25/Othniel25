@@ -36,7 +36,7 @@ I am actively developing a cybersecurity portfolio through practical labs, real-
 
 ## 📜 Certifications
 - Google Cybersecurity Professional Certificate  
-- Ethical Hacking & Privilege Escalation – TCM Security  
+- Practical Ethical Hacking the complete course – TCM Security  
 
 ---
 
