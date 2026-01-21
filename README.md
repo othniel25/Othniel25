@@ -1,5 +1,7 @@
 ## Hi there 👋 Im Othniel Kwarteng
-<!--
+<a href= "https://www.linkedin.com/in/
+othniel-kwarteng-0794a5214
+
 **othniel25/Othniel25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
